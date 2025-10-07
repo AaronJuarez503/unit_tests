@@ -62,7 +62,3 @@ git clone [https://github.com/AaronJuarez503/unit_tests.git](https://github.com/
 
 Este proyecto está licenciado bajo la MIT License
 .
-🤝 Contribuciones
-
-¿Quieres colaborar? ¡Bienvenido!
-Por favor abre un Issue o haz un Pull Request siguiendo las buenas prácticas.
