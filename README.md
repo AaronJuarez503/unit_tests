@@ -34,7 +34,8 @@
 
 ---
 
-## 📂 Estructura del proyecto
+## 📁 Estructura del proyecto
+
 reservas-canchas/
 ├── src/
 │ ├── controllers/
