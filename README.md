@@ -35,7 +35,7 @@
 ---
 
 ## 📁 Estructura del proyecto
-
+```
 reservas-canchas/
 ├── src/
 │ ├── controllers/
@@ -49,7 +49,7 @@ reservas-canchas/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## ⚙️ Instalación y ejecución
