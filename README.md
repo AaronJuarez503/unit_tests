@@ -54,9 +54,9 @@ reservas-canchas/
 ## ⚙️ Instalación y ejecución
 
 1. Clona el repositorio:
-   ```bash
-  https://github.com/AaronJuarez503/unit_tests.git
-
+   ``` https://github.com/AaronJuarez503/unit_tests.git
+bash
+   
   📝 Licencia
 
 Este proyecto está licenciado bajo la MIT License
